@@ -1,7 +1,7 @@
 
 ![resim](https://user-images.githubusercontent.com/104153626/164759315-ad8c4c6b-f0be-4006-9ef9-f89f6a48152f.png)
 
-# Lime Crypter
+# Pure Crypter
 
 An obfuscation tool for .Net + Native files.
 
@@ -10,20 +10,47 @@ An obfuscation tool for .Net + Native files.
 * .NET - Coded in C#, required framework 4.0 dependency.
  
 * Injection - Hide payload behind a legit process
+
+## Features
+Bit 32/64 bit
+Error Message
+Select Injector
+Fake Mesaje
+Binder ("Run Once Run Startup")
+Loader Mode
+Notification
+Single Instance
+Anti WM
+Anti Submission
+Execution Delay
+Advanced Runtime
+Exclusion Windows Defender
+Memory Bombing
+Anti File Delete
+Change Timestamp
+Hardened Name
+Exclusion Region
+Crypters Killer
+Startup Hidden
+Assembly Clone 
+Certifcate
+Extensions hta/html/src/pif/com/exe
+.net Freamwork Version 2.5 / 3/0 / 4/0 / 4.5
+Fud Refud every 2 Hours
   
  
 ## Prerequisites
 
 To open project you need:
 
-1- Visual Studio 2019+
+1- Visual Studio 2022+
 
 2- This repository
 
 
 ## Author
 
-* **NYAN CAT** 
+* **PureCrypter Company** 
 
 
 ## Disclaimer
