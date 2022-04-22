@@ -37,6 +37,9 @@ An obfuscation tool for .Net + Native files.
 * Extensions hta/html/src/pif/com/exe
 * .net Freamwork Version 2.5 / 3/0 / 4/0 / 4.5
 * Fud Refud every 2 Hours
+
+![resim](https://user-images.githubusercontent.com/104153626/164760573-d11206f0-5c37-4dcb-8bfc-b887737d2fb7.png)
+
   
  
 ## Prerequisites
