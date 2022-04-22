@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/2k40yRA.png">
+![resim](https://user-images.githubusercontent.com/104153626/164759315-ad8c4c6b-f0be-4006-9ef9-f89f6a48152f.png)
 
 # Lime Crypter
 
